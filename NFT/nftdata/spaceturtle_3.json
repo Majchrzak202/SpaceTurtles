@@ -1,7 +1,7 @@
 {
     "name": "SpaceTurtle Token 🐢",
     "description": "Now you dont have to look for them in sewers. Space Turtles are inviding Earth. Make sure to grab one!. That's the project from mastering Ethereum Blockchain course. See external link for details",
-    "image": "https://github.com/Majchrzak202/SpaceTurtles/blob/master/NFT/nftdata/spaceturtle_3.webp",
+    "image": "https://raw.githubusercontent.com/Majchrzak202/SpaceTurtles/master/NFT/nftdata/spaceturtle_3.webp",
     "external_url": "https://ethereum-blockchain-developer.com",
     "attributes": [
         {
